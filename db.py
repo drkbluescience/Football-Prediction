@@ -148,11 +148,3 @@ class DB:
         except Exception as e:
             print(e)
 
-
-def main():
-    # DB().main()
-    DB()
-
-
-if __name__ == '__main__':
-    main()
