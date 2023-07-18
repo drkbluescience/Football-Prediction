@@ -1,5 +1,5 @@
 # Football-Prediction
-It is my first solo study in machine learning and Python, prepared in 2019, whether there is a correlation between football betting data and matches.
+It is my first solo study in machine learning and Python, prepared in 2020, whether there is a correlation between football betting data and matches.
 
 I used classification algorithms with the data set obtained by collecting the bet bulletins daily. 
 The objective was to determine if a correlation between bet values and scoreline exists. 
